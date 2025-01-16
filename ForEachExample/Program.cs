@@ -26,10 +26,7 @@
 					{
 						Console.WriteLine($"There is a name in the file {student}");
 						break;
-					} else
-					{
-						Console.WriteLine("There is no student in the list");
-					}
+					} 
 					
 				}
 				Console.Write("Do you want to search another name [Y / N]: ");
