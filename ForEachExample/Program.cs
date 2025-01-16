@@ -17,7 +17,7 @@
 								"CORTEZ",
 								"VENTENILLA",
 								"LANOY"};
-				Console.Write("Enter the name to be search: ");
+				Console.Write("Type the name to be search: ");
 				string search = Console.ReadLine();
 
 				foreach (string student in students)
